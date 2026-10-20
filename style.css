@@ -1,0 +1,51 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f4f4f4;
+}
+nav {
+  background: #333;
+  padding: 10px;
+}
+nav a {
+  color: white;
+  margin-right: 15px;
+  text-decoration: none;
+}
+nav a:hover {
+  text-decoration: underline;
+}
+main {
+  padding: 20px;
+}
+section {
+  background: white;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+button {
+  padding: 5px 10px;
+  margin: 3px;
+  cursor: pointer;
+}
+#styleBox {
+  padding: 20px;
+  background: lightgray;
+  font-size: 16px;
+}
+#hoverBox {
+  width: 150px;
+  height: 150px;
+  background: lightblue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.done {
+  text-decoration: line-through;
+  color: gray;
+}
+#todoList li {
+  margin: 5px 0;
+}
