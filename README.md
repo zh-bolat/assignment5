@@ -1,7 +1,7 @@
 # Assignment 5. JavaScript Basics (DOM Manipulation & Events)
 
 Student: Bolat Zhylgeldi
-Group: SE-0000
+Group: SE-2529
 
 Live site: https://zh-bolat.github.io/assignment5/
 

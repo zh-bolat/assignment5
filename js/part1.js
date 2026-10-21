@@ -1,5 +1,5 @@
 let studentName = "Bolat Zhylgeldi";
-let group = "SE-0000";
+let group = "SE-2529";
 
 console.log("Name: " + studentName);
 console.log("Group: " + group);
